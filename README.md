@@ -8,3 +8,5 @@ Al cargar el script se añade un nuevo menu en Página, tambien se puede crear u
 ```C#
 DialogInsertComment
 ```
+
+He añadido un icono por si alguien quiere crear el botón.
